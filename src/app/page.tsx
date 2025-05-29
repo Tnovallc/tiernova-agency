@@ -25,7 +25,7 @@ export default function HomePage() {
         <Card>
           <CardContent className="p-4 space-y-2">
             <Briefcase className="w-6 h-6 text-black" />
-            <h2 className="text-xl font-semibold text-gray-800">LLC & EIN Setup</h2>
+            <h2 className="text-xl font-semibold text-gray-800">LLC &amp; EIN Setup</h2>
             <p className="text-gray-700">Professional guidance to set up your legal business entity and obtain your EIN quickly.</p>
           </CardContent>
         </Card>
@@ -33,7 +33,7 @@ export default function HomePage() {
           <CardContent className="p-4 space-y-2">
             <Briefcase className="w-6 h-6 text-black" />
             <h2 className="text-xl font-semibold text-gray-800">Funding Strategies</h2>
-            <p className="text-gray-700">We help you secure funding through Tier 1, 2, and 3 credit lines and vendor accounts.</p>
+            <p className="text-gray-700">We&nbsp;help you secure funding through Tier 1, 2, and 3 credit lines and vendor accounts.</p>
           </CardContent>
         </Card>
       </section>
@@ -46,7 +46,7 @@ export default function HomePage() {
             <CardContent className="p-4 space-y-2">
               <DollarSign className="w-6 h-6 text-black" />
               <h3 className="text-xl font-semibold text-gray-800">Starter Plan</h3>
-              <p className="text-gray-700">199 - LLC & EIN setup, vendor account guidance</p>
+              <p className="text-gray-700">199 - LLC &amp; EIN setup, vendor account guidance</p>
             </CardContent>
           </Card>
           <Card>
@@ -73,14 +73,14 @@ export default function HomePage() {
           <Card>
             <CardContent className="p-4 space-y-2">
               <Quote className="w-5 h-5" />
-              <p className="text-gray-700">"TierNova helped me secure vendor accounts within weeks! I went from no business credit to getting approved for a $5K line. Highly recommend!"</p>
+              <p className="text-gray-700">quot;TierNova helped me secure vendor accounts within weeks! I went from no business credit to getting approved for a $5K line. Highly recommend!quot;</p>
               <p className="text-sm text-gray-500">— Jordan M., Small Business Owner</p>
             </CardContent>
           </Card>
           <Card>
             <CardContent className="p-4 space-y-2">
               <Quote className="w-5 h-5" />
-              <p className="text-gray-700">"The Elite Plan was worth every penny. I received expert help and funding strategies that actually worked. My business is thriving now."</p>
+              <p className="text-gray-700">quot;The Elite Plan was worth every penny. I received expert help and funding strategies that actually worked. My business is thriving now.quot;</p>
               <p className="text-sm text-gray-500">— Maria R., Startup Founder</p>
             </CardContent>
           </Card>
