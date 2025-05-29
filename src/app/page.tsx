@@ -134,7 +134,7 @@ export default function HomePage() {
       {/* Footer */}
       <footer className="text-center text-sm text-gray-500 pt-10 border-t">
         <div className="flex justify-center gap-4 py-2">
-          <Mail className="w-4 h-4" /> support@tiernovaagency.com
+          <Mail className="w-4 h-4" /> tiernovaagency@gmail.com
           <Phone className="w-4 h-4" /> (888) 555-6789
         </div>
         <p>&copy; 2025 TierNova Agency. All rights reserved.</p>
