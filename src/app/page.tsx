@@ -46,7 +46,7 @@ export default function HomePage() {
             <CardContent className="p-4 space-y-2">
               <DollarSign className="w-6 h-6 text-black" />
               <h3 className="text-xl font-semibold text-gray-800">Starter Plan</h3>
-              <p className="text-gray-700">199 - LLC &amp; EIN setup, vendor account guidance</p>
+              <p className="text-gray-700">$199 - LLC &amp; EIN setup, vendor account guidance</p>
             </CardContent>
           </Card>
           <Card>
