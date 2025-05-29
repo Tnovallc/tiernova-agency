@@ -73,14 +73,14 @@ export default function HomePage() {
           <Card>
             <CardContent className="p-4 space-y-2">
               <Quote className="w-5 h-5" />
-              <p className="text-gray-700">quot;TierNova helped me secure vendor accounts within weeks! I went from no business credit to getting approved for a $5K line. Highly recommend!quot;</p>
+              <p className="text-gray-700"> &ldquo;TierNova helped me secure vendor accounts within weeks! I went from no business credit to getting approved for a $5K line. Highly recommend! &rdquo;</p>
               <p className="text-sm text-gray-500">— Jordan M., Small Business Owner</p>
             </CardContent>
           </Card>
           <Card>
             <CardContent className="p-4 space-y-2">
               <Quote className="w-5 h-5" />
-              <p className="text-gray-700">quot;The Elite Plan was worth every penny. I received expert help and funding strategies that actually worked. My business is thriving now.quot;</p>
+              <p className="text-gray-700"> &ldquo;The Elite Plan was worth every penny. I received expert help and funding strategies that actually worked. My business is thriving now. &rdquo;</p>
               <p className="text-sm text-gray-500">— Maria R., Startup Founder</p>
             </CardContent>
           </Card>
