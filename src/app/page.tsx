@@ -100,12 +100,35 @@ export default function HomePage() {
       {/* Contact Form */}
       <section className="max-w-xl mx-auto space-y-4">
         <h2 className="text-2xl font-bold text-center">Get in Touch</h2>
-        <form className="space-y-4">
-          <Input placeholder="Your Name" />
-          <Input placeholder="Your Email" type="email" />
-          <Textarea placeholder="How can we help you build your business credit?" />
-          <Button className="w-full">Submit Inquiry</Button>
-        </form>
+        <form
+  action="https://formspree.io/f/xldbqvew"
+  method="POST"
+  className="space-y-4"
+>
+  <Input
+    name="name"
+    type="text"
+    placeholder="Your Name"
+    required
+  />
+  <Input
+    name="email"
+    type="email"
+    placeholder="Your Email"
+    required
+  />
+  <Textarea
+    name="message"
+    placeholder="How can we help you build your business credit?"
+    required
+  />
+  <Button
+    className="w-full"
+    type="submit"
+  >
+    Submit Inquiry
+  </Button>
+</form>
       </section>
 
       {/* Footer */}
